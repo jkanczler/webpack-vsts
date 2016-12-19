@@ -1,4 +1,4 @@
-# [The project is moved to the Dealogic organization: https://github.com/Dealogic/webpack-vsts-extension](https://github.com/Dealogic/webpack-vsts-extension):
+# [The project is moved to the Dealogic organization: https://github.com/Dealogic/webpack-vsts-extension](https://github.com/Dealogic/webpack-vsts-extension)
 
 
 
