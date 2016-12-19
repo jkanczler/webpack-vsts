@@ -73,5 +73,5 @@ Now you can add the webpack task to your VSTS build as a new build step.
 
 Setting          | Description
 --- | ---
-working folder | The path of the working folder where webpack build will run. Optional, if the path is not provided, then the root folder will be used.
+working folder | The path of the working folder where webpack build will run (locally installed webpack required). Optional, if the path is not provided, then the root folder will be used.
 arguments | As the task is using the webpack-cli you can provide your arguments. For example you can pass `--config my.webpack.config.js` if you have custom configuration file.
