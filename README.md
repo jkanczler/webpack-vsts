@@ -16,6 +16,7 @@ You can read more about creation of custom tasks [here](http://blog.devmatter.co
 ## Future Plan
 * Provide an option to handle warnings as errors.
 * Webpack custom section on the Summary page to show more information even for successful builds.
+* Integration with Travis CI
 
 ## How to use it
 
