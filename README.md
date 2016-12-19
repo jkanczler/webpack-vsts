@@ -1,3 +1,6 @@
+[The project is moved to the Dealogic organization](https://github.com/Dealogic/webpack-vsts-extension):
+https://github.com/Dealogic/webpack-vsts-extension
+
 # Webpack Task for Visual Studio Team System (VSTS)
 
 There is no official webpack task for the Visual Studio Team System builds, so this project is trying to fill
